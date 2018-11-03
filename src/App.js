@@ -1,67 +1,57 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
 import profileImage from './images/zaki.jpg';
 import './App.css';
 
+
 class App extends Component {
+  componentDidMount(){
+    document.title = "Zakaria's Portfolio";
+  };
   render() {
     return (
       <div id="page-wrap">
-    
         <img src={profileImage} alt="Photo of Cthulu" id="pic" className="rounded"/>
-    
         <div id="contact-info" className="vcard">
-        
             <h1 className="fn">Sheikh Md Zakaria</h1>
-        
-           
         </div>
-                
-        
-        
+        <div id="objective">
+            <p>
+                Software Developer, worked with frontend and backend development. Experienced in developing web and desktop application starting
+                from scratch. Participated in all phases of software development. Efficient and comfortable to work with newer tools and technologies.
+            </p>
+        </div>     
         <dl>
             <dd className="clear"></dd>
-            
             <dt>Education</dt>
             <dd>
                 <h2>Bachelors in Computer Science and Engineering</h2>
                 <p><strong>Major:</strong> Computer Science and Engineering
                 </p>
             </dd>
-            
             <dd className="clear"></dd>
-            
             <dt>Skills</dt>
             <dd>
-            
-            <p><strong>	Application Development: </strong>C#, VB.NET, WPF, MVVM, Prism, Infragistics, ASP.NET MVC 4, DOM, HTML, HTML5, CSS, Ajax, JSON, JQuery, Responsive Web design, PHP, Web API, WCF, XML, Codeigniter, PHP Framework, SEO, Team Foundation Server, Subversion, Crystal report 2013, ReactJs, React developer tools, Simple React Snippets, Visual Studio Code, AngularJs 1, Javascript, ES6, Bootstrap</p>
-            <p><strong>		Databases: </strong>MySQL, Oracle 9i, 10g, MSSQL 2016 </p>
-            <p><strong>		Web/App Server: </strong>Apache, IIS</p>
-            <p><strong>		SDLC: </strong>Agile, Waterfall, TDD</p>
-            <p><strong>	Operating System: </strong>Windows XP, Windows 7, Linux RedHat</p>
-            <p><strong>	Strong backgrounds</strong> in Algorithms, Data Structures and Object Oriented Programming </p>
+              <p><strong>	Application Development: </strong>C#, VB.NET, WPF, MVVM, Prism, Infragistics, ASP.NET MVC 4, DOM, HTML, HTML5, CSS, Ajax, JSON, JQuery, Responsive Web design, PHP, Web API, WCF, XML, Codeigniter, PHP Framework, SEO, Team Foundation Server, Subversion, Crystal report 2013, ReactJs, React developer tools, Simple React Snippets, Visual Studio Code, AngularJs 1, Javascript, ES6, Bootstrap</p>
+              <p><strong>		Databases: </strong>MySQL, Oracle 9i, 10g, MSSQL 2016 
+              <strong>		Web/App Server: </strong>Apache, IIS
+              <strong>		SDLC: </strong>Agile, Waterfall, TDD
+              <strong>	Operating System: </strong>Windows XP, Windows 7, Linux RedHat
+              <strong>	Strong backgrounds</strong> in Algorithms, Data Structures and Object Oriented Programming </p>
             </dd>
-            
             <dd className="clear"></dd>
-            
             <dt>Experience</dt>
             <dd>
                 <h2>Engineer <span>Invesco Canada- Application Run- 2017 -  Current</span></h2>
                 <ul>
-                    
                 </ul>
-                
                 <h2>Assistant Engineer <span>Power Development Board(BD)- Billing- 2011 - 2016</span></h2>
                 <ul>
-                    
                 </ul> 
                 <h2>Senior Software Engineer <span>Softrus Solution- 2009 - 2011</span></h2>
                 <ul>
-                    
                 </ul> 
             </dd>
             <dd className="clear"></dd>
-            
             <dt>Proffessional Projects</dt>
             <dd>
                 <ul>
@@ -74,12 +64,9 @@ class App extends Component {
                 <li>	Fixed Asset Tracker: C#, .NET, Win form, Test Driven Development, Nunit</li>
                 </ul>
             </dd>
-
             <dd className="clear"></dd>
-            
             <dt>Personal Projects</dt>
             <dd>
-                
                 <ul>
                   <li>	Design and Development of Lamar University Professor (Kmakki) Website customizing free css template, HTML and CSS - http://galaxy.cs.lamar.edu/~kmakki/</li>
                   <li>	<a href="http://www.techno-groupbd.com/" target="_blank"> www.techno-groupbd.com</a> : ASP.NET Webform, HTML, CSS</li>
@@ -87,18 +74,19 @@ class App extends Component {
                   <li>	ReactJs: <a href="https://smzakaria.github.io/plural-demo/" target="_blank"> https://smzakaria.github.io/plural-demo/</a></li>
                   <li>	ReactJs: <a href="https://smzakaria.github.io/hellogame/" target="_blank"> https://smzakaria.github.io/hellogame/</a></li>
                   <li>	ReactJs: <a href="https://smzakaria.github.io/githubusers/" target="_blank"> https://smzakaria.github.io/githubusers/</a></li>
+                  <li>	AngularJs 1.x: <a href="https://plnkr.co/edit/ftKK6n5AzNU9kW32zEG7?p=preview" target="_blank"> Angular Demo(plnkr)</a></li>
+                  <li>	AngularJs 1.x: <a href="https://gnomic-priorities.000webhostapp.com/#/user/angular" target="_blank"> Angular Demo(github users)</a></li>
+                  
                 </ul> 
             </dd>
             <dd className="clear"></dd>
-            
             <dt>Hobbies</dt>
             <dd>Badminton, Cycling, Cricket</dd>
             <dd className="clear"></dd>
             <dd className="clear"></dd>
         </dl>
-        
         <div className="clear"></div>
-    
+        <h1 className="fn"></h1>
     </div>
     );
   }

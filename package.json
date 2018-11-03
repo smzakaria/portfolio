@@ -2,8 +2,10 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://smzakaria.github.io/portfolio",
   "dependencies": {
     "react": "^16.5.2",
+    "react-document-title": "^2.0.3",
     "react-dom": "^16.5.2",
     "react-scripts": "1.1.5"
   },
