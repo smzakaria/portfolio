@@ -55,13 +55,55 @@ class App extends Component {
             <dt>Proffessional Projects</dt>
             <dd>
                 <ul>
-                <li>	Phoenix: VB.NET, WPF, MVVM, Prism, XAML, Infragistics, MS SQL Server</li>
-                <li>	PPM: VB.NET, Infragistics, Web service, HTML, Jquery, CSS, MS SQL Server</li>
-                <li>	Tarmac Outlook Plugin: C# .NET, Winform, MS SQL Server</li>
-                <li>	Profitability App: Microsoft SSIS</li>
-                <li>	Online new connection: ASP.NET MVC, HTML, CSS, Jquery, Ajax, MS SQL Server</li>
-                <li>	E-commerce Website: ASP.NET Webform, HTML, CSS, Javascript, MS SQL Server</li>
-                <li>	Fixed Asset Tracker: C#, .NET, Win form, Test Driven Development, Nunit</li>
+
+                    <li>
+                      
+                        <strong>Phoenix:</strong> TA Data maintenance application to centralize all territory management 
+                        to a single source and process monthly commissions for the trades placed by the reps. 
+                        
+                        <strong>Tools Used: </strong> VB.NET, WPF, MVVM, Prism, XAML, Infragistics, MS SQL Server
+                        
+</li>
+<li>	
+                        
+                        <strong>PPM:
+                        </strong>
+                         Private placement offerings used for sale of Securities directly to an accredited 
+                         investor rather than through public offerings.
+                        
+                        <strong> Tools Used : </strong>
+                        VB.NET, Infragistics, Web service, HTML, Jquery, CSS, MS SQL Server
+                       
+
+</li>
+<li>	
+                        
+                        <strong> Tarmac Outlook Plugin: 
+                        </strong>
+                       Outlook plugin used by sales employee in 
+                        creating email which pulls predefined templates of Funds and Disclosures 
+                        for these funds and when sent it integrates this email as an individual  task in Salesforce. 
+                        <strong>Tools Used : 
+                        </strong> C# .NET, Winform, MS SQL Server
+                        
+                    
+                        
+
+</li>
+<li>	<strong>Online new connection:
+</strong> ASP.NET MVC, HTML, CSS, Jquery, Ajax, MS SQL Server
+</li>
+<li>	<strong>E-commerce Website:
+</strong> ASP.NET Webform, HTML, CSS, Javascript, MS SQL Server
+</li>
+<li>
+<strong>Fixed Asset Tracker: 
+</strong>C#, .NET, Win form, Test Driven Development, Nunit
+</li>
+
+
+
+               
                 </ul>
             </dd>
             <dd className="clear"></dd>
