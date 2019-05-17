@@ -16,7 +16,7 @@ class App extends Component {
         </div>
         <div id="objective">
             <p>
-                Software Developer, worked with frontend and backend development. Experienced in developing web and desktop application starting
+                Software Developer with 5 years experience in web application development, worked with frontend and backend development. Experienced in developing web and desktop application starting
                 from scratch. Participated in all phases of software development. Efficient and comfortable to work with newer tools and technologies.
             </p>
         </div>     
@@ -31,7 +31,7 @@ class App extends Component {
             <dd className="clear"></dd>
             <dt>Skills</dt>
             <dd>
-              <p><strong>	Application Development: </strong>C#, VB.NET, WPF, MVVM, Prism, Infragistics, ASP.NET MVC 4, DOM, HTML, HTML5, CSS, Ajax, JSON, JQuery, Responsive Web design, PHP, Web API, WCF, XML, Codeigniter, PHP Framework, SEO, Team Foundation Server, Subversion, Crystal report 2013, ReactJs, React developer tools, Simple React Snippets, Visual Studio Code, AngularJs 1, Javascript, ES6, Bootstrap</p>
+              <p><strong>	Application Development: </strong>C#, ASP.NET Web Forms, ASP.NET MVC 4, VB.NET, WPF, MVVM, HTML5, CSS, Ajax, JSON, JQuery, Responsive Web design, PHP, Web API, WCF, XML, Codeigniter, PHP Framework, SEO, Team Foundation Server, Subversion, Crystal report 2013, ReactJs, React developer tools, Simple React Snippets, Visual Studio Code, AngularJs 1, Javascript, ES6, Bootstrap</p>
               <p><strong>		Databases: </strong>MySQL, Oracle 9i, 10g, MSSQL 2016 
               <strong>		Web/App Server: </strong>Apache, IIS
               <strong>		SDLC: </strong>Agile, Waterfall, TDD
@@ -41,13 +41,13 @@ class App extends Component {
             <dd className="clear"></dd>
             <dt>Experience</dt>
             <dd>
-                <h2>Engineer <span>Invesco Canada- Application Run- 2017 -  Current</span></h2>
+                <h2>Engineer <span>Invesco Canada- Application Run- March, 2017 -  April, 2019</span></h2>
                 <ul>
                 </ul>
-                <h2>Assistant Engineer <span>Power Development Board(BD)- Billing- 2011 - 2016</span></h2>
+                <h2>Assistant Engineer <span>Power Development Board(BD)- Billing- Oct, 2011 - Sep, 2016</span></h2>
                 <ul>
                 </ul> 
-                <h2>Senior Software Engineer <span>Softrus Solution- 2009 - 2011</span></h2>
+                <h2>Senior Software Engineer <span>Softrus Solution- April, 2009 - Sep, 2011</span></h2>
                 <ul>
                 </ul> 
             </dd>
