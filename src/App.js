@@ -32,9 +32,9 @@ class App extends Component {
             <dt>Skills</dt>
             <dd>
               <p><strong>	Application Development: </strong>C#, ASP.NET Web Forms, ASP.NET MVC 4, VB.NET, WPF, MVVM, HTML5, CSS, Ajax, JSON, JQuery, Responsive Web design, PHP, Web API, WCF, XML, Codeigniter, PHP Framework, SEO, Team Foundation Server, Subversion, Crystal report 2013, ReactJs, React developer tools, Simple React Snippets, Visual Studio Code, AngularJs 1, Javascript, ES6, Bootstrap</p>
-              <p><strong>		Databases: </strong>MySQL, Oracle 9i, 10g, MSSQL 2016 
+              <p><strong>		Databases: </strong>MSSQL 2016, MySQL, Oracle 9i 
               <strong>		Web/App Server: </strong>Apache, IIS
-              <strong>		SDLC: </strong>Agile, Waterfall, TDD
+              <strong>		SDLC: </strong>Agile, Kanban, Waterfall, TDD
               <strong>	Operating System: </strong>Windows XP, Windows 7, Linux RedHat
               <strong>	Strong backgrounds</strong> in Algorithms, Data Structures and Object Oriented Programming </p>
             </dd>
