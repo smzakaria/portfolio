@@ -11,7 +11,7 @@ p { margin: 0 0 16px 0; }
 a { color: rgb(52, 3, 58); text-decoration: none; border-bottom: 1px dotted #999; }
 a:hover { border-bottom-style: solid; color: rgb(82, 18, 119); }
 ul { margin: 0 0 32px 17px; }
-#objective { width: 750px; float: left; }
+#objective { width: 1000px; float: left; }
 #objective p { font-family: Georgia, Serif; font-style: italic; color: #666; text-align: justify }
 dt { font-style: italic; font-weight: bold; font-size: 18px; text-align: right; padding: 0 26px 0 0; width: 100px; float: left; height: 70px; border-right: 1px solid #999;  }
 dd { width: 850px; float: right; text-align: justify; }

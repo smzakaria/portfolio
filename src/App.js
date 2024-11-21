@@ -10,7 +10,7 @@ class App extends Component {
   render() {
     return (
       <div id="page-wrap">
-        <img src={profileImage} alt="Photo of Cthulu" height="150" width="150" id="pic" className="rounded"/>
+        
         <div id="contact-info" className="vcard">
             <h1 className="fn">Sheikh Md Zakaria</h1>
         </div>
@@ -41,12 +41,19 @@ class App extends Component {
             <dd className="clear"></dd>
             <dt>Skills</dt>
             <dd>
-              <p><strong> Application Development: </strong>C#, ASP.NET Web Forms, ASP.NET MVC 4, VB.NET, Angular 8, TypeScript, HTML5, CSS, Ajax, JSON, JQuery, Responsive Web design, PHP, Web API, WCF, XML, Codeigniter, PHP Framework, SEO, Team Foundation Server, Subversion, Crystal report 2013, ReactJs, React developer tools, Simple React Snippets, Visual Studio Code, Javascript, ES6, Bootstrap</p>
+              <p><strong> Application Development: </strong>
+              C#, ASP.Net MVC, ASP.Net Core, .NET 8.x, REST API, Microservices, Angular, ReactJS, 
+              VueJS, HTML, CSS, JSON, JQuery, Web API, XML, Azure, CI/CD, Team Foundation Server, 
+              Visual Studio Code, JavaScript, TypeScript, ES6, Bootstrap, ETL tools Informatica,  
+              Front-End Development, Back-End Development, Applications Framework, Legacy Systems, 
+              Communication, Problem Solving, Data Architecture and Debugging
+              </p>
               <p><strong>   Databases: </strong>MSSQL 2016, MySQL, Oracle 9i 
               <strong>    Web/App Server: </strong>Apache, IIS
               <strong>    SDLC: </strong>Agile, Kanban, Waterfall, TDD
               <strong>  Operating System: </strong>Windows XP, Windows 10
               <strong>  Strong backgrounds</strong> in Algorithms, Data Structures and Object Oriented Programming </p>
+              <strong>Certifications:</strong> Microsoft Certified Solutions Associate, Microsoft Certified Solutions Developer (2019)	
             </dd>
             <dd className="clear"></dd>
             <dt>Experience</dt>
