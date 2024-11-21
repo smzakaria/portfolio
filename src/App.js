@@ -16,16 +16,28 @@ class App extends Component {
         </div>
         <div id="objective">
             <p>
-                Software Developer with 5 years experience in web application development, worked with frontend (Angular 8) and backend development. Experienced in developing web and desktop application starting
-                from scratch. Participated in all phases of software development. Efficient and comfortable to work with newer tools and technologies. Implementing new features, maintaining existing code, and refactoring existing code across a breadth of products
+              <strong>Profile Snapshot:</strong>
+            <ul>
+              <li>Dedicated Software Developer with extensive experience in application development, database management, and software engineering.</li>
+              <li>Over 12 years of experience, including 7 years of Canadian experience, in developing and supporting Full Stack .Net based web applications.</li>
+              <li>Proficient in a wide range of technologies, including C#, ASP.Net MVC, REST API, Microservices, Angular, ReactJS, VueJS, HTML5, Bootstrap CSS, ASP.Net, and jQuery.</li>
+              <li>Skilled in all phases of the Software Development Life Cycle (SDLC), from requirement analysis to design, development, implementation, delivery, and troubleshooting.</li>
+              <li>Hands-on experience in designing and developing user interfaces for web applications.</li>
+              <li>Actively facilitated backend web development and built REST Services using Asp.net Web API and .Net Core in C#.</li>
+              <li>Working knowledge of Microsoft SQL Server for handling application data.</li>
+              <li>Familiar with Microsoft Azure cloud computing platform.</li>
+              <li>Experienced in L2, L3 production support, monitoring, and handling technical incidents.</li>
+              <li>Proven track record of delivering innovative solutions and contributing to the success of renowned companies in the pharmaceutical, legal, financial, and technology sectors.</li>
+              <li>Experience in the Financial, Legal, and Healthcare domains.</li>
+              <li>Microsoft Certified Solutions Associate and Microsoft Certified Solutions Developer.</li>
+              <li>Proficient in Agile methodologies, including participation in daily stand-up calls, retrospectives, and planning sessions.</li>
+          </ul>
+
+    
             </p>
         </div>     
         <dl>
-            <dd className="clear"></dd>
-            <dt>Education</dt>
-            <dd>
-                <h2>Bachelors in Computer Science and Engineering</h2>
-            </dd>
+            
             <dd className="clear"></dd>
             <dt>Skills</dt>
             <dd>
@@ -39,16 +51,31 @@ class App extends Component {
             <dd className="clear"></dd>
             <dt>Experience</dt>
             <dd>
-                <ul>
-                <h2>Software Developer <span>RBRO Solutions Inc Canada- Dev Team- 2019 -  Present</span></h2>
-                </ul>
-                <ul>
+              <ul>
+                <h2>Applications Developer <span>Cencora 2022 -  Present</span></h2>
+                <strong>Technologies Used:</strong> VueJs, ReactJs, JQuery, Telerik Kendo UI, HTML5, CSS, 
+                JavaScript, Asp.net core, WebAPI (C#), EF Core 6, SQL Server Database, Asp.Net, .Net Framework 8.0 
+              </ul>
+              <ul>
+                <h2>Software Developer <span>RBRO Solutions Inc Canada- Dev Team- 2019 -  2022</span></h2>
+                <strong>Technologies Used:</strong> Angular 8, HTML5, CSS, JavaScript, Asp.net, WebAPI(C#), Microservices, EF 6, 
+                SQL Server Database, Asp.Net, .Net Framework, Speckflow
+              </ul>
+              <ul>
                 <h2>Engineer <span>Invesco Canada- Application Run- 2017 -  2019</span></h2>
-                </ul>
-                <ul>
+                <strong>Technologies Used:</strong> VB.NET, ASP.NET (ASPX), .NET Framework, MS SQL Server, 
+                Infragistics, Web Services, HTML5, CSS3, jQuery, AngularJS, MVVM
+              </ul>
+              <ul>
                 <h2>Assistant Engineer <span>Power Development Board(BD)- Billing- 2011 - 2016</span></h2>
-                </ul> 
+                <strong>Technologies Used:</strong> Asp.Net (aspx), Oracle, Asp.Net Web API, SQL Server Database, .Net Framework
+              </ul> 
                 
+            </dd>
+            <dd className="clear"></dd>
+            <dt>Education</dt>
+            <dd>
+                <h2>Bachelors in Computer Science and Engineering</h2>
             </dd>
             <dd className="clear"></dd>
             <dt>Proffessional Projects</dt>
@@ -120,21 +147,7 @@ class App extends Component {
                
                 </ul>
             </dd>
-            <dd className="clear"></dd>
-            <dt>Personal Projects</dt>
-            <dd>
-                <ul>
-                  <li>  Design and Development of Lamar University Professor (Kmakki) Website customizing free css template, HTML and CSS - http://galaxy.cs.lamar.edu/~kmakki/</li>
-                  <li>  <a href="http://www.techno-groupbd.com/" target="_blank"> www.techno-groupbd.com</a> : ASP.NET Webform, HTML, CSS</li>
-                  <li>  Social Networking Web Application with Codeigniter, HTML, CSS, jQuery and MYSQL </li>
-                  <li>  ReactJs: <a href="https://smzakaria.github.io/plural-demo/" target="_blank"> https://smzakaria.github.io/plural-demo/</a></li>
-                  <li>  ReactJs: <a href="https://smzakaria.github.io/hellogame/" target="_blank"> https://smzakaria.github.io/hellogame/</a></li>
-                  <li>  ReactJs: <a href="https://smzakaria.github.io/githubusers/" target="_blank"> https://smzakaria.github.io/githubusers/</a></li>
-                  <li>  AngularJs 1.x: <a href="https://plnkr.co/edit/ftKK6n5AzNU9kW32zEG7?p=preview" target="_blank"> Angular Demo(plnkr)</a></li>
-                  <li>  AngularJs 1.x: <a href="https://gnomic-priorities.000webhostapp.com/#/user/angular" target="_blank"> Angular Demo(github users)</a></li>
-                  
-                </ul> 
-            </dd>
+
             <dd className="clear"></dd>
             <dt>Hobbies</dt>
             <dd>Badminton, Cycling, Cricket</dd>
