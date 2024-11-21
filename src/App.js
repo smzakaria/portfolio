@@ -79,11 +79,7 @@ class App extends Component {
               </ul> 
                 
             </dd>
-            <dd className="clear"></dd>
-            <dt>Education</dt>
-            <dd>
-                <h2>Bachelors in Computer Science and Engineering</h2>
-            </dd>
+
             <dd className="clear"></dd>
             <dt>Proffessional Projects</dt>
             <dd>
@@ -154,11 +150,12 @@ class App extends Component {
                
                 </ul>
             </dd>
-
             <dd className="clear"></dd>
-            <dt>Hobbies</dt>
-            <dd>Badminton, Cycling, Cricket</dd>
-            <dd className="clear"></dd>
+            <dt>Education</dt>
+            <dd>
+              Bachelors in Computer Science and Engineering
+            </dd>
+           
             <dd className="clear"></dd>
         </dl>
         <div className="clear"></div>
